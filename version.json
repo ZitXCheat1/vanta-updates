@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "VantaLauncher",
-    "version": "1.0.4",
-    "releaseDate": "2026-01-20"
+    "version": "1.0.5",
+    "releaseDate": "2026-01-21"
   },
 
   "download": {
@@ -12,9 +12,7 @@
   "update": {
     "required": true,
     "changelog": [
-      "Improved Discord RPC stability",
-      "Fixed java bug",
-      "Fixed the mod isue and improved the client FPS"      
+      "Fixed Installing Dependesciese isue"  
     ]
   }
 }
