@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "VantaLauncher",
-    "version": "1.0.7",
-    "releaseDate": "2026-01-30"
+    "version": "1.0.8",
+    "releaseDate": "2026-02-01"
   },
 
   "download": {
@@ -12,8 +12,8 @@
   "update": {
     "required": true,
     "changelog": [
-      "Fixed Some Client isue",
-      "Improved Client Design"
+      "Better Client UI",
+      "Better Mods"
     ]
   }
 }
